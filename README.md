@@ -6,7 +6,7 @@
   <div align="center"> 
     <a href="https://www.linkedin.com/in/elena-yanchik/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="30" height="30" /></a>&nbsp;
     <a href="https://t.me/YanchikLena"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpVteA79NPGBGtqnh_BtNIqXe_P-eCM0Uzl2_6DZeYg&s" width="30" height="30"/></a>&nbsp;
-    <img src="https://cdn.icon-icons.com/icons2/535/PNG/512/Email-Icon_icon-icons.com_52870.png" width="30" height="30"/>
+    <a href="mailto:lenochka28yan@gmail.com"><img src="https://cdn.icon-icons.com/icons2/535/PNG/512/Email-Icon_icon-icons.com_52870.png" width="30" height="30"/></a>
      
   </div>
   
