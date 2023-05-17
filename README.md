@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <div align="center"> 
-    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="30" height="30" />&nbsp;
+    <a href="https://www.linkedin.com/in/elena-yanchik/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="30" height="30" /></a>&nbsp;
     <a href="lenochka28yan@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/542/542689.png" width="30" height="30"/></a>
      
   </div>
