@@ -20,7 +20,7 @@
 <div >
   
  <h3>Testing</h3>   
-  <img src="https://p7.hiclipart.com/preview/527/527/656/computer-icons-checklist-shopping-list-checklist.jpg" title="checklist" width="40" height="40"/> Design chechlists and test cases &nbsp;
+  <a href="https://github.com/AlenaYanchyk/CheckList"><img src="https://p7.hiclipart.com/preview/527/527/656/computer-icons-checklist-shopping-list-checklist.jpg" title="checklist" width="40" height="40"/><a/> Design chechlists and test cases &nbsp;
   <img src="https://thumbs.dreamstime.com/b/bug-report-icon-tr…rn-flat-symbol-web-site-mobile-logo-135744296.jpg" title="BugReport" width="40" height="40" /> Write and design bug reports &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0s2MMV4gcZW3UvdScxnzegW6fqI46-ZVCQ&usqp=CAU" title="DevTools" width="40" height="40"/> Active use DevTools &nbsp;
   
