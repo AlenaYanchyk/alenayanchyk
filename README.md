@@ -12,7 +12,7 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlenaYanchyk&theme=default)
   
-  ![](https://komarev.com/ghpvc/?username=AlenaYanchyk&color=lightgrey)
+  <img src="https://komarev.com/ghpvc/?username=AlenaYanchyk&style=flat-square&color=lightgrey" alt=""/>
   
 </div>
 
