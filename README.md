@@ -2,8 +2,19 @@
 <h1> Hi there! I am Alena</h1>
 <h2>QA Engineer</h2>
 </div>
+<div>
+  <p>*Working experience as a Quality Assurance Engineer about 1 year</p>
+  <p>*Hands-on experience with mobile application products and web applications</p>
+  <p>*Use of testing tools</p>
+  <p>*Able to convert requirements to test cases and execute those tests</p>
+  <p>*Experience with JIRA</p>
+  <p>*Excellent analytical and problem-solving skills</p>
+  <p>*Programming knowledge of Java</p>
+  <p>*Ability to work with databases such as MySQL</p>
+</div>
 
 <div align="center">
+  <h2>Connect with me:</h2>
   <div align="center"> 
     <a href="https://www.linkedin.com/in/elena-yanchik/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="30" height="30" /></a>&nbsp;
     <a href="https://t.me/YanchikLena"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpVteA79NPGBGtqnh_BtNIqXe_P-eCM0Uzl2_6DZeYg&s" width="30" height="30"/></a>&nbsp;
